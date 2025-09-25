@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/skypoint_dev",
   "VITE_SEO_SITE_NAME": "Trada",
   "VITE_SEO_SITE_DESCRIPTION": "Trade seamlessly using skypoint's powerful decentralized crypto exchange.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/skytrade-8236/",
+  "VITE_SEO_SITE_URL": "https://trada.skypoint.dev",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@skypoint_dev",
