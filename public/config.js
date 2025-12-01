@@ -1,10 +1,11 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
   "VITE_ORDERLY_BROKER_NAME": "TRADA",
+  "VITE_BROKER_EOA_ADDRESS": "0xf04e3acc9a6a6b41958944feb09d9a68cd8caee0",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "42161,10,8453,1,56,900900900",
-  "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901",
+  "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,901901901",
   "VITE_DEFAULT_CHAIN": "900900900",
   "VITE_PRIVY_APP_ID": "cmfzzt3fi01dml80c7du2e7co",
   "VITE_PRIVY_LOGIN_METHODS": "email",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
   "VITE_CUSTOM_MENUS": "Legal, https://www.skypoint.dev/legal/trada-dex; About, https://www.skypoint.dev/trada; Contact, https://www.skypoint.dev/#contact",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "5",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
