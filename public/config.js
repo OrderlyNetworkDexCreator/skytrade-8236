@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade seamlessly using trada's powerful decentralized crypto exchange.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Campaigns",
   "VITE_CUSTOM_MENUS": "Legal, https://www.skypoint.dev/legal/trada-dex; About, https://www.skypoint.dev/trada; Contact, https://www.skypoint.dev/#contact",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "true",
